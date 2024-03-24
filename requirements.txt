@@ -1,0 +1,10 @@
+fastapi
+pydantic
+openai
+python-dotenv
+uvicorn
+requests
+psycopg2-binary~=2.9.3
+supabase
+gspread
+gunicorn==20.0.4

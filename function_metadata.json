@@ -1,0 +1,8 @@
+{
+    "output_json": {
+        "name": "output_json",
+        "type": "string",
+        "default": "output.json",
+        "description": "Output file name"
+    }
+}
